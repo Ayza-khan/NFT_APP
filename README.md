@@ -1,2 +1,3 @@
-# NFT_APP
-react.js project to make NFT marketplace
+# React App with EthersJS
+
+Tutorial to implement Wallet Connection using Ethers in React Application
